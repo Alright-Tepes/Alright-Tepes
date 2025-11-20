@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Azad (range79) 👋
 
-<!--
-**Alright-Tepes/Alright-Tepes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Java/Kotlin & Spring Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciAdin&show_icons=true)
+
+---
+
+### 📈 WakaTime Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kullaniciAdin)
+
+---
+
+### 🔗 Connect
+[LinkedIn](https://linkedin.com/in/kullaniciAdin)  
+[Telegram](https://t.me/kullaniciAdin)
