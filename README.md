@@ -1,3 +1,5 @@
+https://i.pinimg.com/originals/a9/05/b9/a905b9369b1ed514e5d4f6019d24b719.gif
+
 # Hi, I'm Erdem (erdemgalibov) 👋
 
 Frontend/Backend Developer | PHP/Node.js React/Tailwind/Next.js
