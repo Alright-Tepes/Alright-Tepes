@@ -1,4 +1,4 @@
-<img src="https://github.com/Alright-Tepes/Alright-Tepes/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%"/>
+<img src="https://github.com/Alright-Tepes/Alright-Tepes/blob/main/images.jpg?raw=true" alt="Banner" width="100%"/>
 
 <div align="center">
   <img src="https://github.com/Alright-Tepes/Alright-Tepes/blob/main/assets/tepess.gif?raw=true" width="200px"/>
