@@ -6,10 +6,10 @@
   <h1>Merhaba, ben Erdem Galibov 👋</h1>
   
   <img src="https://img.shields.io/badge/Boğaziçi_Üniversitesi-Bilgisayar_Mühendisliği-8B1A1A?style=for-the-badge&logo=bookmyshow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-4._sınıf_%7C_Graduating_2026-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-1._sınıf_%7C_Graduating_2026-red?style=for-the-badge"/>
 
   <p>
-    <strong>Full-Stack Developer • Game Developer • Shounen & Psikoloji bağımlısı</strong>
+    <strong>Frontend & Backend Developer • Game Developer</strong>
   </p>
 
   <!-- Tech Stack Badges -->
@@ -31,11 +31,3 @@
 </div>
 
 <br/>
-
-### 🔥 Şu ara kafayı yediğim şeyler
-```yaml
-- Unreal Engine 5.4 + Nanite & Lumen ile AAA-level prototype
-- NestJS + React 19 + Next.js 15 full-stack projeler
-- C++ ile low-level optimizasyon & memory management
-- Django + React ile hızlı admin panelli SaaS’ler
-- Psikoloji temalı 2D visual novel (Godot + GDScript)
