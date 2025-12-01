@@ -1,30 +1,41 @@
-https://i.pinimg.com/originals/a9/05/b9/a905b9369b1ed514e5d4f6019d24b719.gif
+<img src="https://github.com/Alright-Tepes/Alright-Tepes/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%"/>
 
-# Hi, I'm Erdem (erdemgalibov) 👋
+<div align="center">
+  <img src="https://github.com/Alright-Tepes/Alright-Tepes/blob/main/assets/tepess.gif?raw=true" width="200px"/>
+  
+  <h1>Merhaba, ben Erdem Galibov 👋</h1>
+  
+  <img src="https://img.shields.io/badge/Boğaziçi_Üniversitesi-Bilgisayar_Mühendisliği-8B1A1A?style=for-the-badge&logo=bookmyshow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-4._sınıf_%7C_Graduating_2026-red?style=for-the-badge"/>
 
-Frontend/Backend Developer | PHP/Node.js React/Tailwind/Next.js
+  <p>
+    <strong>Full-Stack Developer • Game Developer • Shounen & Psikoloji bağımlısı</strong>
+  </p>
 
----
+  <!-- Tech Stack Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+  </div>
+</div>
 
-### 🚀 Languages and Tools
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br/>
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alright-Tepes&show_icons=true)
-
----
-
-### 📈 WakaTime Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alright-Tepes)
-
----
-
-### 🔗 Connect
-[Instagram](https://instagram.com/erdemgalibov)  
-[AniMora project](https://t.me/animoraoficiall)
+### 🔥 Şu ara kafayı yediğim şeyler
+```yaml
+- Unreal Engine 5.4 + Nanite & Lumen ile AAA-level prototype
+- NestJS + React 19 + Next.js 15 full-stack projeler
+- C++ ile low-level optimizasyon & memory management
+- Django + React ile hızlı admin panelli SaaS’ler
+- Psikoloji temalı 2D visual novel (Godot + GDScript)
