@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/Alright-Tepes/Alright-Tepes/blob/main/assets/tepess.gif?raw=true" width="200px"/>
   
-  <h1>👋 Hi, I'm Erdem</h1>
+  <h1>👋 Hi, I'm Allright</h1>
   
   <img src="https://img.shields.io/badge/Boğaziçi_Üniversitesi-Bilgisayar_Mühendisliği-8B1A1A?style=for-the-badge&logo=bookmyshow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-1._sınıf_%7C_Graduating_2026-red?style=for-the-badge"/>
